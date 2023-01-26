@@ -35,3 +35,4 @@ build/
 
 ## Secret files
 key.json
+secure-connect-*.zip
